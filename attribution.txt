@@ -1,0 +1,5 @@
+Title of work: Watsonx.ai, Watsonx.gov, and Cloud Pak for Data Software Requirements
+Link to work: https://www.ibm.com/docs/en/cloud-paks/cp-data/5.0.x?topic=requirements-software 
+License of the work: CC-BY-SA-4.0
+Creator names: IBM Corporation
+Publication Date: 07/16/2024 
